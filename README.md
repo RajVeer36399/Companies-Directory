@@ -1,29 +1,42 @@
 # Companies-Directory
 
-Companies Directory is a simple project that displays a list of companies along with key details such as industry, location, company size, and a short description. It is designed to demonstrate handling structured data, building UI components, and implementing search or filter functionality.
+A simple and responsive Companies Directory web application built using Vite + React and Tailwind CSS. This project displays a list of companies with details like industry, location, size, and description.
 
-# Project Description
+# Technologies Used
 
-This project provides a clean dataset of companies and a basic interface to view them. It is ideal for beginners learning frontend development, practicing API/data handling, or showcasing portfolio work. The directory structure makes it easy to integrate into React, Vite, TailwindCSS, or any JavaScript-based project.
+Vite – Fast development environment and build tool
+
+React.js – Component-based UI library
+
+Tailwind CSS – Utility-first CSS framework for styling
 
 # Features
 
-List of companies with essential details
+Displays company listings in a clean card layout
 
-Clean, structured JSON dataset
+Fully responsive UI
 
-Easy to extend (search, filters, pagination)
+Fast rendering powered by Vite + React
 
-Suitable for learning or portfolio demos
+Easy to extend with additional companies or fields
 
-# How to Use
+📂 Project Setup
+# Install dependencies
+npm install
 
-Import the dataset into your project
+# Run development server
+npm run dev
 
-Display the companies using cards, tables, or list components
+# Build for production
+npm run build
 
-Add search or filter logic for better functionality
+📁 Project Structure
+src/
+ ├─ components/
+ ├─ data/
+ ├─ App.jsx
+ ├─ main.jsx
 
-📄 License
+🌐 Live Demo
 
-Free to use for learning and personal projects.
+https://companies-directory-flm.netlify.app/
