@@ -32,9 +32,13 @@ npm run build
 
 📁 Project Structure
 src/
+
  ├─ components/
+ 
  ├─ data/
+ 
  ├─ App.jsx
+ 
  ├─ main.jsx
 
 🌐 Live Demo
