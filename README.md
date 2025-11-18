@@ -34,13 +34,13 @@ npm run build
 
 src/
 
-  ├─ components/
+├─ components/
  
-  ├─ data/
+├─ data/
  
-  ├─ App.jsx
+├─ App.jsx
  
-  ├─ main.jsx
+├─ main.jsx
 
 🌐 Live Demo
 
