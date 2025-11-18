@@ -1,0 +1,272 @@
+[
+{
+  "id":1,
+  "name":"Aurora Labs",
+  "industry":"Software",
+  "location":"Bengaluru",
+  "size":"51-200",
+  "description":"AI tools for developers",
+  "founded":2018
+},
+{
+  "id":2,
+  "name":"GreenField Foods",
+  "industry":"Food & Beverage",
+  "location":"Hyderabad",
+  "size":"201-500",
+  "description":"Sustainable organic foods",
+  "founded":2010
+},
+{
+  "id":3,
+  "name":"Oceanic Logistics",
+  "industry":"Logistics",
+  "location":"Chennai",
+  "size":"501-1000",
+  "description":"Freight and warehousing",
+  "founded":2006
+},
+{
+  "id":4,
+  "name":"ByteWave Solutions",
+  "industry":"Software",
+  "location":"Bengaluru",
+  "size":"11-50",
+  "description":"Custom software development",
+  "founded":2020
+},
+{
+  "id":5,
+  "name":"SolarSynergy",
+  "industry":"Energy",
+  "location":"Pune",
+  "size":"51-200",
+  "description":"Solar installations and services",
+  "founded":2015
+},
+{
+  "id":6,
+  "name":"FinPulse",
+  "industry":"Fintech",
+  "location":"Mumbai",
+  "size":"201-500",
+  "description":"Payments and lending platform",
+  "founded":2016
+},
+{
+  "id":7,
+  "name":"EduBridge",
+  "industry":"Education",
+  "location":"Hyderabad",
+  "size":"51-200",
+  "description":"Online upskilling platform",
+  "founded":2012
+},
+{
+  "id":8,
+  "name":"AeroDynamics",
+  "industry":"Aerospace",
+  "location":"Bengaluru",
+  "size":"1001-5000",
+  "description":"Avionics and components",
+  "founded":1998
+},
+{
+  "id":9,
+  "name":"Medicore Pharma",
+  "industry":"Healthcare",
+  "location":"Mumbai",
+  "size":"501-1000",
+  "description":"Generic pharmaceuticals",
+  "founded":2004
+},
+{
+  "id":10,
+  "name":"UrbanScape",
+  "industry":"Real Estate",
+  "location":"Chennai",
+  "size":"51-200",
+  "description":"Sustainable urban housing",
+  "founded":2013
+},
+{
+  "id":11,
+  "name":"DataMint",
+  "industry":"Software",
+  "location":"Pune",
+  "size":"11-50",
+  "description":"Data engineering services",
+  "founded":2019
+},
+{
+  "id":12,
+  "name":"StyleHaven",
+  "industry":"Retail",
+  "location":"Bengaluru",
+  "size":"201-500",
+  "description":"Omni-channel fashion retail",
+  "founded":2011
+},
+{
+  "id":13,
+  "name":"ClearWater Tech",
+  "industry":"Environment",
+  "location":"Kochi",
+  "size":"11-50",
+  "description":"Water purification tech",
+  "founded":2017
+},
+{
+  "id":14,
+  "name":"QuantumEdge",
+  "industry":"Software",
+  "location":"Hyderabad",
+  "size":"51-200",
+  "description":"Cloud-native solutions",
+  "founded":2014
+},
+{
+  "id":15,
+  "name":"Harvest Agro",
+  "industry":"Agriculture",
+  "location":"Nagpur",
+  "size":"201-500",
+  "description":"Modern agri-tech",
+  "founded":2009
+},
+{
+  "id":16,
+  "name":"NextGen Media",
+  "industry":"Media",
+  "location":"Mumbai",
+  "size":"51-200",
+  "description":"Streaming and content studio",
+  "founded":2016
+},
+{
+  "id":17,
+  "name":"BlueWave Analytics",
+  "industry":"Software",
+  "location":"Bengaluru",
+  "size":"11-50",
+  "description":"Business intelligence",
+  "founded":2021
+},
+{
+  "id":18,
+  "name":"TransitPro",
+  "industry":"Logistics",
+  "location":"Pune",
+  "size":"501-1000",
+  "description":"Last mile delivery",
+  "founded":2008
+},
+{
+  "id":19,
+  "name":"CareConnect",
+  "industry":"Healthcare",
+  "location":"Chennai",
+  "size":"51-200",
+  "description":"Telemedicine platform",
+  "founded":2018
+},
+{
+  "id":20,
+  "name":"EcoPack",
+  "industry":"Manufacturing",
+  "location":"Ahmedabad",
+  "size":"201-500",
+  "description":"Biodegradable packaging",
+  "founded":2012
+},
+{
+  "id":21,
+  "name":"Lumen Robotics",
+  "industry":"Robotics",
+  "location":"Bengaluru",
+  "size":"51-200",
+  "description":"Automation for factories",
+  "founded":2015
+},
+{
+  "id":22,
+  "name":"OpenCourse",
+  "industry":"Education",
+  "location":"Delhi",
+  "size":"11-50",
+  "description":"MOOC platform",
+  "founded":2013
+},
+{
+  "id":23,
+  "name":"NanoMed",
+  "industry":"Healthcare",
+  "location":"Hyderabad",
+  "size":"11-50",
+  "description":"Nanotech therapeutics",
+  "founded":2020
+},
+{
+  "id":24,
+  "name":"SmartGrid",
+  "industry":"Energy",
+  "location":"Pune",
+  "size":"501-1000",
+  "description":"Grid optimization software",
+  "founded":2007
+},
+{
+  "id":25,
+  "name":"MetroCafe",
+  "industry":"Food & Beverage",
+  "location":"Mumbai",
+  "size":"11-50",
+  "description":"Cafe chain and cloud kitchen",
+  "founded":2014
+},
+{
+  "id": 26,
+  "name": "CloudNova Systems",
+  "industry": "Software",
+  "location": "Bengaluru",
+  "size": "201-500",
+  "description": "Scalable cloud infrastructure and DevOps solutions",
+  "founded": 2017
+},
+{
+  "id": 27,
+  "name": "FreshBasket Organics",
+  "industry": "Food & Beverage",
+  "location": "Kolkata",
+  "size": "51-200",
+  "description": "Farm-to-home organic produce supplier",
+  "founded": 2011
+},
+{
+  "id": 28,
+  "name": "SecureLink CyberTech",
+  "industry": "Cybersecurity",
+  "location": "Noida",
+  "size": "501-1000",
+  "description": "Enterprise-grade cybersecurity and threat detection solutions",
+  "founded": 2016
+},
+{
+  "id": 29,
+  "name": "AquaPure Technologies",
+  "industry": "Environment",
+  "location": "Goa",
+  "size": "11-50",
+  "description": "Advanced water filtration and desalination solutions",
+  "founded": 2018
+},
+{
+  "id": 30,
+  "name": "Zenith Mobility",
+  "industry": "Automotive",
+  "location": "Gurgaon",
+  "size": "501-1000",
+  "description": "Electric vehicle components and smart mobility systems",
+  "founded": 2014
+}
+]
